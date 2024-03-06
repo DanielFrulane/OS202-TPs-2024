@@ -1,0 +1,4 @@
+size: 4
+rankOfThisProcess: 0
+Time for calculating pi: 1.0777840614318848 s
+Pi equals approx. 3.1415991
