@@ -1,0 +1,7 @@
+Nombre de valeurs locales : 64001`
+Valeurs initiales : [ 15604  15517  -7207 ...  -8672  -8503 -18372]
+Temps local pour le tri : 0.03316903114318848 secondes
+Première valeurs locale : -16335
+Dernière valeurs locale : 1
+values : [-16335 -16335 -16335 ...      1      1      1]
+Number of local values after sorted : 63929

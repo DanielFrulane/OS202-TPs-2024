@@ -1,0 +1,7 @@
+Nombre de valeurs locales : 64000`
+Valeurs initiales : [ 15450 -21948   -414 ... -18672 -27894  29836]
+Temps local pour le tri : 0.043889522552490234 secondes
+Première valeurs locale : -32768
+Dernière valeurs locale : -16336
+values : [-32768 -32768 -32768 ... -16336 -16336 -16336]
+Number of local values after sorted : 64046
